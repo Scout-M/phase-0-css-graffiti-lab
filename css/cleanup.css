@@ -1,1 +1,20 @@
 /* write your override styles here */
+ #wall .tag-1 {
+    display: none;
+}
+
+#wall #tag-2[id="tag-2"] {
+    display: none;
+}
+
+div#wall #tag-3.slick[class="slick wicked"] {
+    background: none;
+}
+
+#wall #tag-4[id="tag-4"] {
+    background: none;
+}
+
+div#wall .parent #tag-5.slick[id="tag-5"] {
+    background: none;
+}
